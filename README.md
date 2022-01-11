@@ -1,4 +1,5 @@
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/BOTANOID)](https://github.com/KOSASIH/BOTANOID/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/BOTANOID)](https://github.com/KOSASIH/BOTANOID/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/BOTANOID)](https://github.com/KOSASIH/BOTANOID/network)
