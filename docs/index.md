@@ -10,6 +10,8 @@
 [![CircleCI](https://circleci.com/gh/KOSASIH/BOTANOID/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/BOTANOID/tree/main)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FBOTANOID)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5520/badge)](https://bestpractices.coreinfrastructure.org/projects/5520)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=KOSASIH&row=1)](https://github.com/KOSASIH/github-profile-trophy)
 
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/BOTANOID/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
