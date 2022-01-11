@@ -1,0 +1,1 @@
+We are very happy if anyone is interested in joining and collaborating in developing the BOTANOID project where we can together create a better future through the development of systems, technology and science.
