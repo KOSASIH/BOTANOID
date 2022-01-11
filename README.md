@@ -1,5 +1,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48873a1c-7e54-464f-bc98-5abb41abdc07/deploy-status)](https://app.netlify.com/sites/botanoid/deploys)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/BOTANOID)](https://github.com/KOSASIH/BOTANOID/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/BOTANOID)](https://github.com/KOSASIH/BOTANOID/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/BOTANOID)](https://github.com/KOSASIH/BOTANOID/network)
