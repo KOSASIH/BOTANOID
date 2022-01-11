@@ -11,7 +11,6 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FBOTANOID)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5520/badge)](https://bestpractices.coreinfrastructure.org/projects/5520)
 
-
 You can use the [editor on GitHub](https://github.com/KOSASIH/BOTANOID/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -24,7 +23,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
