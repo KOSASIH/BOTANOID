@@ -6,6 +6,8 @@
 [![Documentation Status](https://readthedocs.org/projects/botanoid/badge/?version=latest)](https://botanoid.readthedocs.io/en/latest/?badge=latest)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/BOTANOID.svg/?label=active+issues&show_trend=true&token=lL-xU93bCng-fKcvoHnDLk3U)](https://deepsource.io/gh/KOSASIH/BOTANOID/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/BOTANOID/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/BOTANOID/tree/main)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FBOTANOID)
+
 
 # BOTANOID
 AI project
