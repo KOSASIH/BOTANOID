@@ -48,4 +48,31 @@
 
 AI project
 
-# Check our Gist here : https://gist.github.com/KOSASIH/170c7c5247735ea9310b47cb333a9f7b
+# AI Feature :
+1. Laggy : Language translator
+https://cloud.ibm.com/services/language-translator/crn%3Av1%3Abluemix%3Apublic%3Alanguage-translator%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A8d4aa2f0-5192-4f46-95ac-bd42f65506f4%3A%3A?env_id=ibm:yp:us-south&bss_account=c178698f05985e33fc3805b12513c856
+
+2. SMARTBOT : Mechine Learning
+https://dataplatform.cloud.ibm.com/data/services/pm-20/17451f04-07b7-48d4-89b7-70419741d73d?context=cpdaas
+
+3. Natula : Natural language understanding
+https://cloud.ibm.com/services/natural-language-understanding/crn%3Av1%3Abluemix%3Apublic%3Anatural-language-understanding%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3Ac375e56b-570e-43a2-b819-b5da8ab3d7f7%3A%3A?env_id=ibm:yp:us-south&bss_account=c178698f05985e33fc3805b12513c856
+
+4. Speeco : Speech to text
+https://cloud.ibm.com/services/speech-to-text/crn%3Av1%3Abluemix%3Apublic%3Aspeech-to-text%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A04661bf7-d4e9-4d82-b0ea-65ab51585cbc%3A%3A?env_id=ibm:yp:us-south&bss_account=c178698f05985e33fc3805b12513c856
+
+5. Texxy : Text to speech
+https://cloud.ibm.com/services/text-to-speech/crn%3Av1%3Abluemix%3Apublic%3Atext-to-speech%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A4ccfee4e-bf75-4373-af50-68194443aad2%3A%3A?env_id=ibm:yp:us-south&bss_account=c178698f05985e33fc3805b12513c856
+
+6. Cozeon : Watson Assistent
+https://us-south.assistant.watson.cloud.ibm.com/us-south/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A46f211b1-091e-498d-aa3b-7fda233e6492%3A%3A/home
+
+7. Saviona : Studio
+https://dataplatform.cloud.ibm.com/data/services/data-science-experience/59b96dad-eaa4-4321-a665-0f7e673472a2?context=cpdaas
+
+8. Discora : Discovery
+https://us-south.discovery.watson.cloud.ibm.com/regions/us-south/services/crn%3Av1%3Abluemix%3Apublic%3Adiscovery%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A5cf1c254-530a-4875-ab9a-b5fd18d8c250%3A%3A
+
+9. Scalai : Openscale
+https://cloud.ibm.com/services/aiopenscale/crn%3Av1%3Abluemix%3Apublic%3Aaiopenscale%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A774fbe7f-f746-4117-81eb-6c7e370e9039%3A%3A?env_id=ibm:yp:us-south&bss_account=c178698f05985e33fc3805b12513c856
+
