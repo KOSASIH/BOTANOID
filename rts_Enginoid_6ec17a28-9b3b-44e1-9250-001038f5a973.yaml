@@ -1,0 +1,25 @@
+aggregator:
+  ip: us-south.ml.cloud.ibm.com/ml/v4/trainings/5c49075d-2d12-4a4c-b893-de954ff41364
+connection:
+  info:
+    id: 6ec17a28-9b3b-44e1-9250-001038f5a973
+# Supply the name of the data handler class and path to it.
+# The info section may be used to pass information to the 
+# data handler.
+# For example,
+# data: 
+#   info:
+#     npz_file: "./example_data/example_data.npz"
+#   name: MnistTFDataHandler
+#   path: ibmfl.util.data_handlers.mnist_keras_data_handler
+data: 
+  info:
+    npz_file: <path to data>
+  name: <data handler>
+  path: <path to data handler>
+local_training:
+  name: XGBClassifierLocalTrainingHandler
+  path: ibmfl.party.training.xgboost_local_training_handler
+protocol_handler:
+  name: PartyProtocolHandler
+  path: ibmfl.party.party_protocol_handler
