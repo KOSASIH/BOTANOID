@@ -47,3 +47,5 @@
 # BOTANOID
 
 AI project
+
+# Check our Gist here : https://gist.github.com/KOSASIH/170c7c5247735ea9310b47cb333a9f7b
