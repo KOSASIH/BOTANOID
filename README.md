@@ -46,7 +46,7 @@
 
 # BOTANOID
 
-AI project
+The BOTANOID project is a development project utilizing AI (Artificial Intelligence) and Mechine Learning, especially to create new innovations in the field of financial technology, especially with regard to Bank marketing.
 
 # AI Feature :
 
