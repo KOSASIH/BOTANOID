@@ -4,15 +4,15 @@ connection:
   info:
     id: 6ec17a28-9b3b-44e1-9250-001038f5a973
 # Supply the name of the data handler class and path to it.
-# The info section may be used to pass information to the 
+# The info section may be used to pass information to the
 # data handler.
 # For example,
-# data: 
+# data:
 #   info:
 #     npz_file: "./example_data/example_data.npz"
 #   name: MnistTFDataHandler
 #   path: ibmfl.util.data_handlers.mnist_keras_data_handler
-data: 
+data:
   info:
     npz_file: <path to data>
   name: <data handler>
