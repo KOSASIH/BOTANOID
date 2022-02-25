@@ -44,9 +44,33 @@
 
 ![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
 
-# BOTANOID
+# Description
 
-The BOTANOID project is a development project utilizing AI (Artificial Intelligence) and Mechine Learning, especially to create new innovations in the field of financial technology, especially with regard to Bank marketing.
+Botanoid is a financial technology innovation that applies artificial intelligence to the problem of predatory lending. Predatory lending is the practice of making loans with unfair or deceptive terms, often to vulnerable borrowers. Predatory loans are often marked by large fees, hidden charges, and exorbitant interest rates.Citing research from an independent study conducted by the Harvard Business Review, Botanoid estimates that predatory lending costs households in the United States $16 billion per year—and one in five people are victims at some point in their lives.Botanoid is a complex piece of code that runs on a decentralized network of computers around the world. This software offers alternative financial services to individuals who have been rejected by traditional banks and credit unions due to bad credit or insufficient assets. The company has already developed a successful product: users can borrow up to $5,000 using Botanoid's credit scoring system, which uses advanced artificial intelligence algorithms to assess risk and return on investment for each individual user based on their social media profile, credit history, and transactional data from cryptocurrency exchanges.The company aims to eventually scale its services nationwide in the United States and make borrowing money as easy as ordering a pizza.
+
+# Value Proposition
+
+AI-Powered Financial Innovation: Botanoid specializes in building innovative artificial intelligence solutions and FinTech applications. We build AI with a focus on fraud detection, risk analysis, credit decisioning, and financial data analytics. Botanoid’s AI-powered platform for banking and financial institutions uses artificial intelligence to target, assess and manage financial risk using big data analysis. It continuously mines massive volumes of data from social media, corporations’ internal reporting systems, and the dark web to provide banks with real-time intelligence on which businesses or individuals represent significant financial risks to them.
+
+# Mission
+
+Developing cutting-edge natural language processing and neural network technologies to make financial and commercial services accessible, efficient and inclusive for everyone.
+
+# Brand Voice
+
+Innovative, Futuristic, Engaging
+
+# Challenge We Run Into
+
+We create the most complex, scalable and secure middle-ware and back-end products and services to drive the digital future. Our focus is on providing on-chain security, protecting data for innovative blockchain protocols, enabling automated systems to secure smart contracts, institutional investment grade custody solutions, highly performant custom driven Indexes, new financial instruments to serve all capital markets and fully customized investment packages.
+
+# Accomplishments that we're proud of
+
+Botanoid is a leading provider of AI driven financial technology innovation. Botanoid leverages the latest computer vision and natural language processing technologies to extract complex data from botanical communications. Botanoid’s collaborative engagement model creates synergies to deliver seamless services across the value chain while reducing operational costs and improving return on investments.
+
+# What we learned
+
+AI-Powered Financial Innovation: Botanoid specializes in building innovative artificial intelligence solutions and FinTech applications. We build AI with a focus on fraud detection, risk analysis, credit decisioning, and financial data analytics. Botanoid’s AI-powered platform for banking and financial institutions uses artificial intelligence to target, assess and manage financial risk using big data analysis. It continuously mines massive volumes of data from social media, corporations’ internal reporting systems, and the dark web to provide banks with real-time intelligence on which businesses or individuals represent significant financial risks to them.
 
 # AI Feature :
 
