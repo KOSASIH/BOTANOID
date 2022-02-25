@@ -27,15 +27,19 @@ AI-Powered Financial Innovation: Botanoid specializes in building innovative art
 Developing cutting-edge natural language processing and neural network technologies to make financial and commercial services accessible, efficient and inclusive for everyone.
 
 # Brand Voice
+
 Innovative, Futuristic, Engaging
 
 # Challenge We Run Into
+
 We create the most complex, scalable and secure middle-ware and back-end products and services to drive the digital future. Our focus is on providing on-chain security, protecting data for innovative blockchain protocols, enabling automated systems to secure smart contracts, institutional investment grade custody solutions, highly performant custom driven Indexes, new financial instruments to serve all capital markets and fully customized investment packages.
 
 # Accomplishments that we're proud of
+
 Botanoid is a leading provider of AI driven financial technology innovation. Botanoid leverages the latest computer vision and natural language processing technologies to extract complex data from botanical communications. Botanoid’s collaborative engagement model creates synergies to deliver seamless services across the value chain while reducing operational costs and improving return on investments.
 
 # What we learned
+
 AI-Powered Financial Innovation: Botanoid specializes in building innovative artificial intelligence solutions and FinTech applications. We build AI with a focus on fraud detection, risk analysis, credit decisioning, and financial data analytics. Botanoid’s AI-powered platform for banking and financial institutions uses artificial intelligence to target, assess and manage financial risk using big data analysis. It continuously mines massive volumes of data from social media, corporations’ internal reporting systems, and the dark web to provide banks with real-time intelligence on which businesses or individuals represent significant financial risks to them.
 
 # AI Feature :
@@ -57,6 +61,3 @@ AI-Powered Financial Innovation: Botanoid specializes in building innovative art
 8. Discora : Discovery https://us-south.discovery.watson.cloud.ibm.com/regions/us-south/services/crn%3Av1%3Abluemix%3Apublic%3Adiscovery%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A5cf1c254-530a-4875-ab9a-b5fd18d8c250%3A%3A
 
 9. Scalai : Openscale https://cloud.ibm.com/services/aiopenscale/crn%3Av1%3Abluemix%3Apublic%3Aaiopenscale%3Aus-south%3Aa%2Fc178698f05985e33fc3805b12513c856%3A774fbe7f-f746-4117-81eb-6c7e370e9039%3A%3A?env_id=ibm:yp:us-south&bss_account=c178698f05985e33fc3805b12513c856
-
-
-
