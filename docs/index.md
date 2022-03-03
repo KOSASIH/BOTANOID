@@ -13,6 +13,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=KOSASIH&row=1)](https://github.com/KOSASIH/github-profile-trophy)
+BOTANOID © 2022 by KOSASIH is licensed under CC BY 4.0
 
 # Description
 
